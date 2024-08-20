@@ -15,7 +15,7 @@ A registry and repository for CDEs and CRFs
     <img src="https://img.shields.io/badge/CDEs-8A2BE2" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Forms-cccccc" />
+    <img src="https://img.shields.io/badge/Forms-green" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
