@@ -12,10 +12,10 @@ A registry and repository for CDEs and CRFs
     <img src="https://img.shields.io/badge/docs-v1.0-yellow" />
   </a>
   <a href="">
-    <img src="=https://img.shields.io/badge/CDEs" />
+    <img src="=https://img.shields.io/badge/CDEs-8A2BE2" />
   </a>
   <a href="">
-    <img src="=https://img.shields.io/badge/Forms" />
+    <img src="=https://img.shields.io/badge/Forms-cccccc" />
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
