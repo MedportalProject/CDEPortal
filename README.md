@@ -22,13 +22,7 @@ A registry and repository for CDEs and CRFs
   </a>
 </h1>
 
-## Catalogue
-- [Introduction](#Introduction)
-- [Update](#Update)
-- [Filetree](#Filetree)
-- [Getting_Started](#Getting_Started)
-- [Usage](#Usage)
-- [Cite](#Cite)
-
 ### Introduction
 CDE Portal is a registry and repository for CDEs and CRFs, please click [CDEPortal Weblink](https://cdeportal.bmicc.cn/) to start work on standardization research data.
+
+
