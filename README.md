@@ -35,6 +35,10 @@ CDE Portal is a registry and repository for CDEs and CRFs.
 ##### 1. CDE Browser
 Users can search and create Common Data Element(CDE) in [CDE Browser](https://cdeportal.bmicc.cn/cde) of the CDE Portal to reuse in their scientific research.
 
+<a href="https://cdeportal.bmicc.cn/cde">
+  <img src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/cde%20browser.png" alt="CDE Browser">
+</a>
+
 ##### 2. Form Browser
 Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.cn/Form) of the CDE Portal to collect scientific data.
 
