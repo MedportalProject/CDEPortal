@@ -50,6 +50,8 @@ Users can search and create Common Data Element(CDE) in [CDE Browser](https://cd
   </picture>
 </details>
 
+
+
 ##### `2` [Form Browser](https://cdeportal.bmicc.cn/Form) 
 Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.cn/Form) of the CDE Portal to collect scientific data.
 <details>
@@ -58,6 +60,8 @@ Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.c
     <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/Form%20browser.png">
   </picture>
 </details>
+
+
 
 ##### `3` [Data Set Browser](https://cdeportal.bmicc.cn/dataset)
 Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
@@ -68,6 +72,8 @@ Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
   </picture>
 </details>
 
+
+
 ##### `4` [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain)
 Users can search Value Domain in [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain) of the CDE Portal to find the required data.
 <details>
@@ -76,6 +82,8 @@ Users can search Value Domain in [Value Domain Browser](https://cdeportal.bmicc.
     <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/value%20domain.png">
   </picture>
 </details>
+
+
 
 ##### `5` [API of CDE Portal](https://cdeportal.bmicc.cn/doc/api)
 CDE Portal provides APIs for CDE and Forms search
