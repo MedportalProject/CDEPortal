@@ -50,6 +50,17 @@ Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.c
   </picture>
 </details>
 
+##### `3` [Data Set](https://cdeportal.bmicc.cn/dataset)
+Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
+<details>
+  <summary><kbd>Data Set details</kbd></summary>
+  <picture>
+    <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/dataset.png">
+  </picture>
+</details>
+
+
+
 
 
 
