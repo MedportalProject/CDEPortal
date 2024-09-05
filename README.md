@@ -94,5 +94,8 @@ CDE Portal provides APIs for CDE and Forms search
   </picture>
 </details>
 
+## 📘 Tutorials
+We provide abundant tutorials to help you navigate the repository and start quickly.
+
 
 
