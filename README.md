@@ -2,7 +2,7 @@
   <div align=center><img src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/CDE%20Logo.png" alt="Logo"></div>
 </a>
 
-# CDEPortal
+# **CDEPortal**
 A registry and repository for CDEs and CRFs
 <h1 align="center">
   <a href="">
