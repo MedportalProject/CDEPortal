@@ -22,7 +22,7 @@ A registry and repository for CDEs and CRFs
   </a>
 </h1>
 
-## Introduction
+## 📦 Introduction
 CDE Portal is a registry and repository for CDEs and CRFs.
 
 ## 🧩 Update
