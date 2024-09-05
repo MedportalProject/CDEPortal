@@ -20,9 +20,6 @@ A registry and repository for CDEs and CRFs
   <a href="">
     <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/CDEPortal-ONLINE-55b467?labelColor=black&logo=vercel&style=for-the-badge" />
-  </a>
 </h1>
 
 ### Introduction
@@ -36,8 +33,13 @@ CDE Portal is a registry and repository for CDEs and CRFs.
 
 #### ✨ Features
 ##### 1. CDE Browser
+Users can search and create Common Data Element(CDE) in [CDE Browser](https://cdeportal.bmicc.cn/cde) of the CDE Portal to reuse in their scientific research.
 
-Users can search Common Data Element(CDE) in [CDE Browser](https://cdeportal.bmicc.cn/cde) of the CDE Portal to reuse in their scientific research.
+##### 2. Form Browser
+Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.cn/Form) of the CDE Portal to collect scientific data.
+
+
+
 
 
 
