@@ -41,6 +41,15 @@ Users can search and create Common Data Element(CDE) in [CDE Browser](https://cd
   </picture>
 </details>
 
+
+**CDE Portal also supports batch query of users:**
+<details>
+  <summary><kbd>Batch Search details</kbd></summary>
+  <picture>
+    <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/batch%20match.png">
+  </picture>
+</details>
+
 ##### `2` [Form Browser](https://cdeportal.bmicc.cn/Form) 
 Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.cn/Form) of the CDE Portal to collect scientific data.
 <details>
@@ -50,7 +59,7 @@ Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.c
   </picture>
 </details>
 
-##### `3` [Data Set](https://cdeportal.bmicc.cn/dataset)
+##### `3` [Data Set Browser](https://cdeportal.bmicc.cn/dataset)
 Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
 <details>
   <summary><kbd>Data Set details</kbd></summary>
@@ -59,12 +68,23 @@ Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
   </picture>
 </details>
 
+##### `4` [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain)
+Users can search Value Domain in [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain) of the CDE Portal to find the required data.
+<details>
+  <summary><kbd>Value Domain browser details</kbd></summary>
+  <picture>
+    <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/value%20domain.png">
+  </picture>
+</details>
+
+##### `5` [API of CDE Portal](https://cdeportal.bmicc.cn/doc/api)
+CDE Portal provides APIs for CDE and Forms search
+<details>
+  <summary><kbd>APIs details</kbd></summary>
+  <picture>
+    <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/API.png">
+  </picture>
+</details>
 
 
 
-
-
-
-
-
-  
