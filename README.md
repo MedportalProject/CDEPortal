@@ -26,7 +26,7 @@ A registry and repository for CDEs and CRFs
 CDE Portal is a registry and repository for CDEs and CRFs.
 
 ## 🧩 Update
-[2024/9/5]
+[2024/8/5]
 - Initialisation CDE Portal project in Github
 
 ## 👋🏻 Getting started
