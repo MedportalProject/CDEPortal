@@ -103,6 +103,9 @@ We provide abundant tutorials to help you navigate the repository and start quic
 - Chinese Version
 - English Version
 
+## 💌 Support
+If you have any questions, please ask in the [Github](https://github.com/MedportalProject/CDEPortal/issues)
+
 ## 🤝 Cite
 If you find our work useful for your research, please consider citing it:
 ```
