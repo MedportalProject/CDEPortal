@@ -22,17 +22,17 @@ A registry and repository for CDEs and CRFs
   </a>
 </h1>
 
-### Introduction
+## Introduction
 CDE Portal is a registry and repository for CDEs and CRFs.
 
-### Getting started
+## Getting started
 👋🏻 No installation necessary! please click [CDEPortal Weblink](https://cdeportal.bmicc.cn/) to start work on standardization research data.
 > \[!IMPORTANT]
 >
 >  **Users can register themselves or use a guest account** 
 
-#### ✨ Features
-##### `1` [CDE Browser](https://cdeportal.bmicc.cn/cde)
+### ✨ Features
+#### `1` [CDE Browser](https://cdeportal.bmicc.cn/cde)
 Users can search and create Common Data Element(CDE) in [CDE Browser](https://cdeportal.bmicc.cn/cde) of the CDE Portal to reuse in their scientific research.
 <details>
   <summary><kbd>CDE Browser details</kbd></summary>
@@ -52,7 +52,7 @@ Users can search and create Common Data Element(CDE) in [CDE Browser](https://cd
 
 
 
-##### `2` [Form Browser](https://cdeportal.bmicc.cn/Form) 
+#### `2` [Form Browser](https://cdeportal.bmicc.cn/Form) 
 Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.cn/Form) of the CDE Portal to collect scientific data.
 <details>
   <summary><kbd>Form Browser details</kbd></summary>
@@ -63,7 +63,7 @@ Users can search and create Form/CRF in [Form Browser](https://cdeportal.bmicc.c
 
 
 
-##### `3` [Data Set Browser](https://cdeportal.bmicc.cn/dataset)
+#### `3` [Data Set Browser](https://cdeportal.bmicc.cn/dataset)
 Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
 <details>
   <summary><kbd>Data Set details</kbd></summary>
@@ -74,7 +74,7 @@ Users can view all [Datasets](https://cdeportal.bmicc.cn/dataset) and their CDEs
 
 
 
-##### `4` [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain)
+#### `4` [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain)
 Users can search Value Domain in [Value Domain Browser](https://cdeportal.bmicc.cn/valuedomain) of the CDE Portal to find the required data.
 <details>
   <summary><kbd>Value Domain browser details</kbd></summary>
@@ -85,7 +85,7 @@ Users can search Value Domain in [Value Domain Browser](https://cdeportal.bmicc.
 
 
 
-##### `5` [API of CDE Portal](https://cdeportal.bmicc.cn/doc/api)
+#### `5` [API of CDE Portal](https://cdeportal.bmicc.cn/doc/api)
 CDE Portal provides APIs for CDE and Forms search
 <details>
   <summary><kbd>APIs details</kbd></summary>
