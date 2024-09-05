@@ -29,7 +29,7 @@ CDE Portal is a registry and repository for CDEs and CRFs.
 👋🏻 No installation necessary! please click [CDEPortal Weblink](https://cdeportal.bmicc.cn/) to start work on standardization research data.
 > \[!IMPORTANT]
 >
-> **Users can register themselves or use a guest account **
+>  **Users can register themselves or use a guest account** 
 
 #### ✨ Features
 ##### 1 CDE Browser
