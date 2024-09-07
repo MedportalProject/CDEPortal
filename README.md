@@ -105,7 +105,7 @@ CDE Portal provides APIs for CDE and Forms search
 ### `6` [CDE Tools](https://github.com/MedportalProject/CDE-Tools)
 CDE Tools is an easy-to-use Excel add-in for query terminology, common data elements (CDEs), and CRFs based on [ExcelDNA](https://excel-dna.net/). Users can search terms from [BioPortal](https://bioportal.bioontology.org/), [MedPortal](http://medportal.bmicc.cn/), and [OLS](https://www.ebi.ac.uk/ols/index) and search CDEs and CRFs in the CDE Portal, and direct inset in Excel sheets.
 <details>
-  <summary><kbd>APIs details</kbd></summary>
+  <summary><kbd>CDE Tools details</kbd></summary>
   <picture>
     <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/cde%20Tools.png">
   </picture>
