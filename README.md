@@ -24,10 +24,13 @@ A registry and repository for CDEs and CRFs
 
 ## 📦 Introduction
 CDE Portal is a registry and repository for CDEs and CRFs.
-### Structure fig.
-<a href="https://github.com/MedportalProject/CDEPortal">
-  <div align=center><img src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/structur%20fig.png" alt="Structure fig"></div>
-</a>
+**Structure fig.**
+<details>
+  <summary><kbd>Structure fig. details</kbd></summary>
+  <picture>
+    <img width="100%" src="https://github.com/MedportalProject/CDEPortal/blob/main/figs/structur%20fig.png">
+  </picture>
+</details>
 
 ## 🧩 Update
 [2024/9/5] Add Tutorials
