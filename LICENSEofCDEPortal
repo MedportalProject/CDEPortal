@@ -1,0 +1,31 @@
+LICENSE
+All of the following license restrictions apply to all files provided by the CDE Portal project:
+
+1. Common Data Elements (CDEs)
+1.1. User-created CDEs
+For user-created CDEs in the CDE Portal project are licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.en).
+
+1.2. The caDSR CDEs
+For CDEs from the Cancer Data Standards Repository (caDSR) are licensed under the policies of the NIH (https://www.cancer.gov/policies/copyright-reuse).
+
+2. Forms
+2.1. User-created Forms
+For user-created forms are licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode.en).
+
+2.2. Publicly Available Forms
+For publicly available forms are licensed under following license:
+All forms in the CDE Portal are derived from publicly available literature. For example: the Pittsburgh Sleep Quality Index (PSQI, https://cdeportal.bmicc.cn/form/view/1) is from the work of D.J. Buysse, C.F. Reynolds, T.H. Monk, S.R. Berman, and D.J. Kupfer, as described in "The Pittsburgh Sleep Quality Index: A New Instrument for Psychiatric Practice and Research," published in Psychiatry Research, 28 (1989), pp. 193-213.
+For license of other form, please refer to the relevant literature.
+
+2.3. Copyright Forms
+For copyright forms are licensed under their respective licenses as specified by the original creators or institutions.
+
+3. Software
+The software: CDE Tools is licensed under Apache-2.0 license (https://www.apache.org/licenses/LICENSE-2.0)
+
+4. Others
+All content on this website (excluding CDEs, Forms, and the CDE Tools software), including but not limited to trademarks, logos, and service marks, is the property of BMICC and Basic Medical Sciences, Chinese Academy of Medical Sciences.
+
+5. Infringement Notice
+If you believe that any content in this project infringes upon your intellectual property rights, please contact us immediately. We will investigate and, if necessary, remove the infringing content as soon as possible.
+
