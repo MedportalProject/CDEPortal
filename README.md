@@ -122,8 +122,8 @@ CDE Tools is an easy-to-use Excel add-in for query terminology, common data elem
 
 ## 📘 Tutorials
 We provide abundant tutorials to help you navigate the repository and start quickly.
-- Chinese Version
-- English Version
+- [Chinese Tutorials](https://github.com/MedportalProject/CDEPortal/blob/main/Tutorials/Tutorials_CN.pdf)
+- [English Tutorials](https://github.com/MedportalProject/CDEPortal/blob/main/Tutorials/Tutorials_EN.pdf)
 
 ## 💌 Support
 If you have any questions, please ask in the [Github](https://github.com/MedportalProject/CDEPortal/issues).
