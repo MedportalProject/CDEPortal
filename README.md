@@ -36,8 +36,8 @@ CDE Portal is a registry and repository for CDEs and CRFs.
 
 ## 🧩 Update
 [2024/9/5] Add Tutorials
-- Add Chinese Tutorials
-- Add English Tutorials
+- Add [Chinese Tutorials](https://github.com/MedportalProject/CDEPortal/blob/main/Tutorials/Tutorials_CN.pdf)
+- Add [English Tutorials](https://github.com/MedportalProject/CDEPortal/blob/main/Tutorials/Tutorials_EN.pdf)
 
 [2024/8/5] Initialisation Project
 - Initialisation CDE Portal project in Github
